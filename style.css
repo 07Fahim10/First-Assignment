@@ -1083,7 +1083,7 @@ body{
     .left-section h3{
         position: absolute;
         top: 70px;
-        left: 15px;
+        left: 25px;
         font-size: 26px;
         font-weight: 600;
     }
@@ -1192,7 +1192,7 @@ body{
     .right-section h3{
         position: absolute;
         top: 70px;
-        left: 15px;
+        left: 25px;
         font-size: 26px;
         font-weight: 600;
     }
